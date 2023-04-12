@@ -24,4 +24,4 @@ personalSubscription = sns.subscribe(
 )
 print("UCMO Subscription ARN: " + ucmoSubscription['SubscriptionArn'])
 print("Personal Subscription ARN: " + personalSubscription['SubscriptionArn'])
-#nag
+#nagarjuna
